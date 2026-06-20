@@ -1,0 +1,10 @@
+# World of Crypto — Python tooling dependencies.
+# Core tools (balance, loot, map generation, data analysis, bots, ML) run on
+# the standard library alone. The packages below are optional and only needed
+# for the extended analysis notebooks.
+
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+websockets>=11.0
+requests>=2.31
