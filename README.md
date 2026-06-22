@@ -18,6 +18,14 @@ A browser-based 2D / 3D fantasy adventure game where heroes and mages explore a 
 - 🌍 **124 Global Realms** — 124 sharded realms across 13 geographic regions behind a WebSocket gateway, with latency-based matchmaking, live population heartbeats and per-client rate limiting.
 - 💾 **Persistent Progress** — Profiles, inventory, guilds and achievements saved to PostgreSQL via SQL migrations.
 
+## ⚔️ Arenas
+
+Combat arenas where heroes face off:
+
+- 🏟️ **Zini Arena**
+- 🌑 **Shadowfall Arena**
+- 🦷 **Voidfang Arena**
+
 ## The World of Zarathor
 
 The continent of **Zarathor** spans ten level-gated zones, each with its own
