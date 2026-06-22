@@ -6,7 +6,7 @@ A browser-based 2D / 3D fantasy adventure game where heroes and mages explore a 
 
 ## Features
 
-- 🛡️ **4 Hero Classes** — Knight, Rogue, Mage and Demon Hunter, each with a signature ability, skill bar and talent tree.
+- 🛡️ **5 Hero Classes** — Knight, Rogue, Mage, Demon Hunter and Dark Elf, each with a signature ability, skill bar and talent tree.
 - 🪙 **$WOC Token Economy** — the in-game marketplace settles in the $WOC SPL token on Solana, with on-chain price feeds and a player-driven order book.
 - 🗺️ **Streamed World** — Four maps (Meadow, Graveyard, Castle, Dungeon) connected by portals, loaded on demand.
 - 🎞️ **Animation System** — Sprite-sheet 2D animation plus an optional WebGL 3D path with rigged models, an animation mixer, lighting rig and custom water/terrain shaders.
@@ -48,7 +48,7 @@ biome, enemies and boss:
 
 ## Hero Classes
 
-Four fully realised classes, each with a signature ability, skill bar and
+Five fully realised classes, each with a signature ability, skill bar and
 talent tree. Pick your hero from the launcher:
 
 | | Class | Role | Playstyle |
@@ -57,6 +57,7 @@ talent tree. Pick your hero from the launcher:
 | ![Rogue](assets/images/heroes/rogue.png) | **Rogue** | Melee DPS | Fast, deadly melee striker. |
 | ![Mage](assets/images/heroes/mage.png) | **Mage** | Ranged DPS | Ranged elemental spellcaster. |
 | ![Demon Hunter](assets/images/heroes/demohunter.png) | **Demon Hunter** | Hybrid DPS | Agile glaive-throwing hybrid. |
+| ![Dark Elf](assets/images/heroes/darkelf.png) | **Dark Elf** | Healer | Support spellcaster who heals allies with arcane lightning. |
 
 ## Global Realms
 
